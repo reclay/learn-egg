@@ -1,0 +1,20 @@
+{
+  "name": "mini-egg-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "globby": "^10.0.1",
+    "is-type-of": "^1.2.1",
+    "koa": "^2.8.2",
+    "koa-router": "^7.4.0"
+  }
+}
